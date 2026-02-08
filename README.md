@@ -1,5 +1,5 @@
 # Undergraduate Coursework & Personal Projects
-All the coursework relative to quantitative finance and some projects finished out of the course
+This repository contains a collection of academic assignments relative to quantitiative finance and some personal projects finnished by myself.
 
 Institute: 
 National Tsing Hua University(Hsinchu, Taiwan)
